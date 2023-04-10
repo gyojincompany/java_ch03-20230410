@@ -1,4 +1,4 @@
-
+//continue 문 연습 예제
 public class ContinueTest {
 	public static void main(String[] args) {
 		for(int i=0;i<10;i++) {
